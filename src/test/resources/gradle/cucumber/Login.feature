@@ -7,5 +7,4 @@ Feature: As a user I should be able to login to application
 	Examples:
 	|username|password|
 	|johnd|password|
-	|acme|something|
 		
